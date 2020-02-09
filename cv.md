@@ -10,7 +10,7 @@
  HTML,CSS,PHP(base), Java Script(base)  
 
 ### About me
- I study in a third-year collage in the specialty of "information security of automated systems". I wrote authentication and login programs and small programs for encrypting and decrypting messages. In my free time I train to make up sites.And i wrote a primitive browser game in Java Script for the competition.  
+ I study in a third-year collage in the specialty of "information security of automated systems". I wrote authentication and login programs and small programs for encrypting and decrypting messages.  
 
 ### English lvl
  I had no practice with English, but I try to read articles and books in English in my free time.
